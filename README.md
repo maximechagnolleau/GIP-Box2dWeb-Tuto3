@@ -4,7 +4,7 @@
 
 ### Présentation
 
-Ce projet Box2d Web présente comment améliorer le contrôle d'un personnage et son interaction avec un environnement 2D.
+Ce projet présente comment améliorer le contrôle d'un personnage et son interaction avec un environnement 2D.
 Il aborde les points suivants :
 * Appliquer une force / impulsion à un objet,
 * Gérer les collisions entre les objets de l’environnement,
